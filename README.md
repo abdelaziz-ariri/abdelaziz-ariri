@@ -36,7 +36,6 @@ I'm always open to discussing collaborations, internships, or full-time roles in
 📧 **Email:** [abdelazizariri248@gmail.com](mailto:abdelazizariri248@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/abdelaziz-ariri](https://www.linkedin.com/in/abdelaziz-ariri/)  
 🔗 **Kaggle:** [kaggle.com/abdelazizariri](https://www.kaggle.com/abdelazizariri)  
-🔗 **GitHub:** [github.com/abdelaziz-ariri](https://github.com/abdelaziz-ariri)
 
 ---
 
